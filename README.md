@@ -1,2 +1,2 @@
 # First-Git-Project
-My first git project :)
+This is an amazing testing git project. My first git project :)
